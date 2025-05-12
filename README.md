@@ -45,13 +45,12 @@ GET /api/invalid-date
   "error": "Invalid Date"
 }
 ```
-
 ## 📦 Installation & Setup
 1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/calvinbayaua/boilerplate-project-timestamp.git
-   cd boilerplate-project-timestamp
-   ```
+  ```sh
+  git clone https://github.com/calvinbayaua/boilerplate-project-timestamp.git
+  cd boilerplate-project-timestamp
+  ```
 2. **Install dependencies:**
   ```sh
   npm i
