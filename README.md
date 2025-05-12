@@ -3,7 +3,7 @@
 The **Timestamp Microservice** is a simple API that parses dates and returns them in JSON format. Users can query the `/api/` endpoint with a date string or Unix timestamp and receive both the UTC and Unix time representations.
 
 ## 📖 Learning Journey
-This project was built while following [freeCodeCamp's Back End Development and APIs Course]([https://scrimba.com/learn-react-c0e](https://www.freecodecamp.org/learn/back-end-development-and-apis)).
+This project was built while following [freeCodeCamp's Back End Development and APIs Course](https://www.freecodecamp.org/learn/back-end-development-and-apis).
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS
